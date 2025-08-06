@@ -37,10 +37,12 @@
 
 ---
 
-## 📌 Proyectos Destacados  
-- 🛒 **E-commerce Full Stack**: React + Django + MySQL (con autenticación JWT)  
-- 🔒 **Proyecto de Ciberseguridad**: Auditoría y pruebas de penetración en entornos controlados  
-- 🌤 **Aplicación del Clima**: React + Vite + API OpenWeather  
+## 🏅 Certificaciones  
+- **React & TypeScript - The Practical Guide** (Udemy, 2024)  
+- **Data Analysis with Python** (freeCodeCamp, 2024)  
+- **Fundamentos de la Inteligencia Artificial** (IBM, 2024)  
+- **Aprendizaje automático y aprendizaje profundo con Python** (Cursa, 2024)  
+- **Curso de Programación Básica** (Platzi, 2024)  
 
 ---
 
