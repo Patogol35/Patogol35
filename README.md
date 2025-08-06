@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jorge Patricio Santamaría Cherrez  
 
 💻 **Máster en Ingeniería de Software y Sistemas Informáticos**  
-📍 Apasionado por el desarrollo **Full Stack**, la **IA aplicada** y la **ciberseguridad**.  
+📍 Apasionado por el desarrollo **Full Stack**, **DevOps** y la **ciberseguridad**.  
 
 ---
 
@@ -25,6 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🧰 Herramientas y Plataformas  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
