@@ -4,7 +4,7 @@ Me apasiona crear tecnología que transforma ideas en realidades digitales. Mi e
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Stack Tecnológico 
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
