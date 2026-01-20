@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Jorge Patricio Santamaría Cherrez  
 
-💻 **Máster en Ingeniería de Software y Sistemas Informáticos**  
-📍 Apasionado por el desarrollo **Full Stack**, **DevOps** y la **ciberseguridad**.  
+Me apasiona crear tecnología que transforma ideas en realidades digitales. Mi enfoque está en aportar valor constante, desarrollando soluciones digitales seguras, innovadoras y orientadas a generar impacto positivo.  
 
 ---
 
