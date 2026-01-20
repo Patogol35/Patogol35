@@ -34,7 +34,17 @@
 ---
 
 ## 🎓 Educación  
-- **Máster en Ingeniería de Software y Sistemas Informáticos** – Universidad Internacional de La Rioja (UNIR)  
+- **Máster en Ingeniería de Software y Sistemas Informáticos** – Universidad Internacional de La Rioja (UNIR)
+
+Máster en Ingeniería de Software y Sistemas Informáticos
+Universidad Internacional de La Rioja, España
+
+Nota TFM: 9 | Promedio final: 8.68
+
+Ingeniero en Sistemas
+Universidad Indoamérica, Ecuador
+
+Nota Tesis: 9.50 | Promedio final: 9
 
 ---
 
