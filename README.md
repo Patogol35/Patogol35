@@ -47,6 +47,3 @@
 
 ---
 
-## 📫 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-patricio-santamaría-cherrez-2a73792b2)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
