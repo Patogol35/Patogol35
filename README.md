@@ -39,6 +39,11 @@ Me apasiona crear tecnología que transforma ideas en realidades digitales. Mi e
 "AnyDesk" (https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
 "MS Office" (https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 "Ubuntu" (https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VirtualBox" (https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+"AnyDesk" (https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
+"MS Office" (https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+"Ubuntu" (https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
