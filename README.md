@@ -1,6 +1,18 @@
-# 👋 ¡Hola! Soy Jorge Patricio Santamaría Cherrez  
+# 👋 Hola, soy **Jorge Patricio Santamaría Cherrez**
 
-Me apasiona crear tecnología que transforma ideas en realidades digitales. Mi enfoque está en aportar valor constante, desarrollando soluciones digitales seguras, innovadoras y orientadas a generar impacto positivo.  
+💻 **Ingeniero en Sistemas | Máster en Ingeniería de Software**  
+🚀 Desarrollador **Backend / Full Stack** enfocado en crear soluciones digitales **seguras, escalables y orientadas a impacto real**.
+
+Me especializo en el desarrollo de aplicaciones modernas, APIs robustas y despliegues en la nube, combinando buenas prácticas de ingeniería con una mentalidad orientada a negocio y calidad.
+
+---
+
+## 🧠 Áreas de Especialización
+- Desarrollo **Backend** con arquitecturas limpias y APIs REST
+- Aplicaciones **Full Stack** modernas
+- Modelado y gestión de **bases de datos relacionales y NoSQL**
+- **Cloud & Deploy** en entornos productivos
+- Código mantenible, documentado y orientado a escalabilidad
 
 ---
 
@@ -18,7 +30,7 @@ Me apasiona crear tecnología que transforma ideas en realidades digitales. Mi e
 
 ---
 
-### 🗄️ Base de Datos
+### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -33,29 +45,41 @@ Me apasiona crear tecnología que transforma ideas en realidades digitales. Mi e
 
 ---
 
-### 🧰 Herramientas
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+### 🧰 Herramientas Técnicas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
-
-## 🎓 Educación  
-- **Máster en Ingeniería de Software y Sistemas Informáticos** – Universidad Internacional de La Rioja (UNIR), España
-
-- **Ingeniero en Sistemas**
-Universidad Indoamérica, Ecuador
+### 📄 Productividad
+- Microsoft Office (Word, Excel, PowerPoint)
 
 ---
 
-## 🏅 Certificaciones  
-- **React & TypeScript - The Practical Guide** (Udemy, 2024)  
-- **Data Analysis with Python** (freeCodeCamp, 2024)  
-- **Fundamentos de la Inteligencia Artificial** (IBM, 2024)  
-- **Aprendizaje automático y aprendizaje profundo con Python** (Cursa, 2024)  
-- **Curso de Programación Básica** (Platzi, 2024)  
+## 🎓 Educación
+🎓 **Máster en Ingeniería de Software y Sistemas Informáticos**  
+Universidad Internacional de La Rioja (UNIR) – España
+
+🎓 **Ingeniero en Sistemas**  
+Universidad Indoamérica – Ecuador
 
 ---
 
+## 🏅 Certificaciones Destacadas
+- **React & TypeScript – The Practical Guide** (Udemy, 2024)
+- **Data Analysis with Python** (freeCodeCamp, 2024)
+- **Fundamentos de la Inteligencia Artificial** (IBM, 2024)
+- **Aprendizaje Automático y Deep Learning con Python** (Cursa, 2024)
+- **Curso de Programación Básica** (Platzi, 2024)
+
+---
+
+## 📫 Contacto
+📧 Abierto a colaborar en proyectos, oportunidades laborales y desafíos tecnológicos.
+
+🔗 Revisa mis repositorios para ver proyectos reales, código limpio y soluciones aplicadas.
+
+---
+
+⭐ *“La ingeniería de software no es solo escribir código, es crear soluciones que perduren.”*
