@@ -57,7 +57,8 @@ Me especializo en el desarrollo de aplicaciones modernas, APIs robustas y despli
 
 ### 📄 Productividad
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) (Word, Excel, PowerPoint)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
+(Word, Excel, PowerPoint)
 
 ---
 
@@ -89,4 +90,4 @@ Universidad Indoamérica – Ecuador
 
 ---
 
-⭐ *“La ingeniería de software no es solo escribir código, es crear soluciones que perduren.”*
+*“La ingeniería de software no es solo escribir código, es crear soluciones que perduren.”*
