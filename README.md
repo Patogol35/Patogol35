@@ -15,7 +15,7 @@ Me especializo en el desarrollo de aplicaciones modernas, APIs robustas y despli
 - Modelado y gestión de **bases de datos relacionales y NoSQL**
 - **Cloud & Deploy** en entornos productivos
 - Código mantenible, bien documentado y orientado a escalabilidad
-- Uso de herramientas profesionales para desarrollo, pruebas y validación de APIs, virtualización de entornos, soporte y administración remota, seguridad y control de red: **Linux · Postman · VirtualBox · NextDNS · AnyDesk · Microsoft Office**
+- Uso de herramientas profesionales para desarrollo, pruebas y validación de APIs, virtualización de entornos, seguridad y control de red, soporte y administración remota, productividad y documentación técnica: **Linux · Postman · VirtualBox · NextDNS · AnyDesk · Microsoft Office**
 
 ---
 
