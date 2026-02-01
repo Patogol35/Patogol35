@@ -79,7 +79,10 @@ Universidad Indoamérica – Ecuador
 ---
 
 ## 📫 Contacto
-📧 Abierto a colaborar en proyectos, oportunidades laborales y desafíos tecnológicos.
+
+📧 Abierto a colaborar en proyectos, oportunidades laborales y desafíos tecnológicos.  
+
+✉️ **Correo:** [patogol3535@gmail.com](mailto:patogol3535@gmail.com)
 
 🔗 Revisa mis repositorios para ver proyectos reales, código limpio y soluciones aplicadas.
 
