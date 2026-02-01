@@ -1,7 +1,8 @@
 # 👋 Hola, soy **Jorge Patricio Santamaría Cherrez**
 
 💻 **Ingeniero en Sistemas | Máster en Ingeniería de Software**  
-🚀 Desarrollador **Backend / Full Stack**, enfocado en crear soluciones digitales **seguras, escalables y con impacto real**.
+
+Desarrollador **Backend / Full Stack**, enfocado en crear soluciones digitales **seguras, escalables y con impacto real**.
 
 Me especializo en el desarrollo de aplicaciones modernas, APIs robustas y despliegues en la nube, combinando buenas prácticas de ingeniería con una mentalidad orientada a negocio y calidad.
 
