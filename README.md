@@ -59,9 +59,9 @@ Me especializo en el desarrollo de aplicaciones modernas, APIs robustas y despli
 
 ### 📄 Productividad
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
+"LibreOffice" (https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
 
-(Word, Excel, PowerPoint)
+(Writer, Calc, Impress)
 
 ---
 
