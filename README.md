@@ -59,7 +59,7 @@ Me especializo en el desarrollo de aplicaciones modernas, APIs robustas y despli
 
 ### 📄 Productividad
 
-"LibreOffice" (https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+LibreOffice
 
 (Writer, Calc, Impress)
 
